@@ -17,7 +17,7 @@ This project analyzes sales data using SQL for data preparation and Power BI for
 - Profit margin analysis
 
 ## Dashboard Preview
-![Dashboard](screenshots/dashboard_overview.png)
+![Dashboard](dashboard_overview.png)
 
 ## Key Insights
 - Office Supplies generated the highest sales
